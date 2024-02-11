@@ -120,7 +120,7 @@ const slideProject = () => {
     height:250px;
 }
 .project-work{
-    text-align: justify;
+    text-align: left;
     background-color: hsl(0, 0%, 8%);
     border: 2px solid hsl(0, 0%, 8%);
 }
