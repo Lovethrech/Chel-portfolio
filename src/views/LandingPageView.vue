@@ -2,7 +2,6 @@
 import MainHeader from "../components/MainHeader.vue";
 import SemiHeader from "../components/SemiHeader.vue";
 import ProjectOverview from "../components/ProjectOverview.vue";
-import AboutSection from "../components/AboutSection.vue";
 import Contact from "../components/ContactSection.vue";
 import Footer from "../components/Footer.vue";
 </script>
