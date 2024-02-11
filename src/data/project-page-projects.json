@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "/public/Images/news-homepage.jpg",
+        "title": "News Homepage",
+        "link": "https://lovethrech-news-homepage.netlify.app/"
+    },
+    {
+        "id": 2,
+        "image": "/public/Images/results-summary.jpg",
+        "title": "Result summary component",
+        "link": "https://lovethrech-results-summary.netlify.app//"
+    },
+    {
+        "id": 3,
+        "image": "/public/Images/blog-card-page.jpg",
+        "title": "Blog preview card",
+        "link": "https://lovethrech-blog-preview-card.netlify.app/"
+    },
+    {
+        "id": 4,
+        "image": "/public/Images/project-tracking-intro-page.jpg",
+        "title": "project tracking intro page",
+        "link": "https://lovethrech-projects-tracking-page.netlify.app/"
+    },
+    {
+        "id": 5,
+        "image": "/public/Images/sunnyside.jpg",
+        "title": "sunnyside agency landing page",
+        "link": "https://lovethrech-sunnyside.netlify.app/"
+    },
+    {
+        "id": 6,
+        "image": "/public/Images/fylo-dark-theme.jpg",
+        "title": "fylo dark theme landing page",
+        "link": "https://lovethrech-fylo-dark-theme.netlify.app/"
+    },
+    {
+        "id": 7,
+        "image": "/public/Images/quiz-app.png",
+        "title": "quiz app",
+        "link": "https://lovethrech-quizapp-using-vue.netlify.app/"
+    },
+    {
+        "id": 8,
+        "image": "/public/Images/sticky-noteapp.png",
+        "title": "Sticky NoteApp",
+        "link": "https://loveth-noteapp.netlify.app/"
+    }
+]
