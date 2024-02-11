@@ -24,7 +24,7 @@
     margin:0 auto;
 }
 .laptop-image-main-container-first-section{
-    background: url("../assets/Images/intro-sunnyside.jpg") top center/auto no-repeat;
+    background: url("/public/Images/sunnyside.jpg") top center/auto no-repeat;
     background-size: cover;
     width:500px;
     height:300px;
