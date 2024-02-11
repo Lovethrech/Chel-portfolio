@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "image": "/public/Images/project-tracking-intro-page.jpg",
+        "image": "/Images/project-tracking-intro-page.jpg",
         "title": "Project Tracking Intro Page",
         "link": "https://lovethrech-projects-tracking-page.netlify.app/",
         "description": "In this project, there exist a navigation bar with five items: products, features, pricing, a circular icon, and login. Also, a section of the webpage promotes a product (Monograph Dashboard) and encourages users to..."
     },
     {
         "id": 2,
-        "image" : "/public/Images/quiz-app.png",
+        "image" : "/Images/quiz-app.png",
         "title": "Quiz App",
         "link": "https://lovethrech-quizapp-using-vue.netlify.app/",
         "description": "This project displays a question with multiple options for the user to choose from. It contains simple question and answer component that can be used in a larger Vue.js application. Users are to select an option and..."
     },
     {
         "id": 3,
-        "image" : "/public/Images/news-homepage.jpg",
+        "image" : "/Images/news-homepage.jpg",
         "title": "News Homepage",
         "link": "https://lovethrech-news-homepage.netlify.app/",
         "description": "At the top, the project contain a simple navigation bar for a web application using Vue.js and vue-router. The navigation bar consists of five links to different pages of the application, and each link is styled using..."
