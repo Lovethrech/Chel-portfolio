@@ -45,7 +45,7 @@ const slideProject = () => {
                 <a :href="project.link">
                     <div class="project-work-image-container">
                         <img 
-                            :src="${process.env.BASE_URL}project.image"
+                            :src="project.image"
                             :alt="project.title" 
                             class="project-work-image"
                         >
